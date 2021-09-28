@@ -2,6 +2,7 @@
 Scientific Literature Network Visualization in 3d
 
 Welcome to 3dSciLi: a simple web tool for 3d visualization of bibliographic data networks!
+http://3dscili.scienceontheweb.net/
 
 1. General information
 
